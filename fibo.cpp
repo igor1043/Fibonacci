@@ -1,13 +1,11 @@
 /*
-
-Programa em C++ que diz qual È o valor de Fibonacci de acordo posiÁ„o digitada pelo usu·rio
-utilizando uma funÁ„o recursiva.
-
-Sequencia fibonacci 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55..
-
-
-28-07-2017
-
+Sequ√™ncia de Fibonacci consiste numa sucess√£o infinita de n√∫meros que obedecem um padr√£o em que cada elemento subsequente √© a soma dos dois anteriores. Assim, ap√≥s 0 e 1, v√™m 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, etc.
+O programa em c++ realiza essa sequencia atrav√©s da recusividade para gerar esses valores
+*/
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
 */
 
 
